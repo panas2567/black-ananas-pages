@@ -1,0 +1,12 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+name: false
+
+title: Black Ananas
+description: Black Ananas fights the crypto world with vitamins.
+
+github:
+  is_project_page: false
+  show_view_on_github_button: false
