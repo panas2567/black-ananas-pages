@@ -1,2 +1,1 @@
-# black-ananas-pages
-Pages for the Black Ananas project
+Black Ananas provides platform for the crypto market analysis and algorithmic trading.
